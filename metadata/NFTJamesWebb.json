@@ -1,0 +1,17 @@
+{
+    "name":"JamesWebbNFT",
+    "description":"Colored picture from Jameswebb",
+    "image":"https://ipfs.io/ipfs/Qmf9AQHtvSgBNULvwhbuSgtt1hKvDapCsgPXKkcvnwK8bM",
+    "attributes":
+        [
+            {
+                "trait_type": "Background" ,
+                "value":20 ,
+                "max_value": 100
+            },
+            {
+                "trait_type" : "color" ,
+                "value":200 , 
+                "max_value" : 9000            }
+        ]
+}

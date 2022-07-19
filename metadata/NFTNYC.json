@@ -1,0 +1,17 @@
+{
+    "name":"NYCNFT",
+    "description":"Beautiful picture from an unknown photographer",
+    "image":"https://ipfs.io/ipfs/QmURWKtrfDucoBRsxjjMtJCVrrBFyRhJh1EYaDNLYSFZsm",
+    "attributes":
+        [
+            {
+                "trait_type": "Background" ,
+                "value":35 ,
+                "max_value": 100
+            },
+            {
+                "trait_type" : "color" ,
+                "value":95 , 
+                "max_value" : 100            }
+        ]
+}
